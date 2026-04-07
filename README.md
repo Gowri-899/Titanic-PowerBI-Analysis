@@ -31,6 +31,10 @@ This project analyzes the Titanic dataset using Power BI to understand survival 
 ## 📁 Files Included
 - Titanic Dashboard (.pbix)
 - Screenshots
+- ## 📷 Dashboard Preview
+
+![Dashboard 1](dashboard1.png)
+![Dashboard 2](dashboard2.png)
 
 ## 🚀 Conclusion
 This project demonstrates data visualization and DAX skills using real-world dataset.
