@@ -33,7 +33,7 @@ This project analyzes the Titanic dataset using Power BI to understand survival 
 - Screenshots
 - ## 📷 Dashboard Preview
 
-![Dashboard 1](dashboard1.png)
+![Dashboard 1](Screenshot 2026-04-07 122951.png.png)
 ![Dashboard 2](dashboard2.png)
 
 ## 🚀 Conclusion
